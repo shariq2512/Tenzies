@@ -1,6 +1,7 @@
 {
   "name": "tenzies",
   "description": "https://scrimba.com/learn-react-c0e/~02si",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
